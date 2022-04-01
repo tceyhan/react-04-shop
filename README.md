@@ -1,4 +1,4 @@
-https://react-04-shop.netlify.app/
+Go to project : https://react-04-shop.netlify.app/
 
 # Getting Started with Create React App
 
